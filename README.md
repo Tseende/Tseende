@@ -1,3 +1,14 @@
+<div align="center">
+
+# Hi, I'm Jean 👋
+
+### System Analyst · AI Automation · Telegram Bots & iOS
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bombus2)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oo.jean21@gmail.com)
+
+</div>
+
 ## Projects
 
 ### 🥗 [Kcalm](https://github.com/Tseende/Kcalm)
