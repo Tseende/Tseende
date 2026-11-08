@@ -2,7 +2,7 @@
 
 # Hi, I'm Jean 👋
 
-### System Analyst · AI Automation · Telegram Bots & iOS
+### System Analyst · AI Automation
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bombus2)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oo.jean21@gmail.com)
